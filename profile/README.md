@@ -10,7 +10,7 @@ As the world embraces a new paradigm of remote work, meetings have shifted to th
 
 With MeetingPal, your phone becomes a voting button, allowing you to securely vote remotely from anywhere in the world using your mobile device. You can draft meeting agendas, send invitations, and manage various types of meetings such as annual general meetings (AGMs), special general meetings (SGMs), trustee meetings, director meetings, and round-robin resolutions. MeetingPal simplifies meeting procedures and processes, ensuring compliance with regulations governing notice, quorums, proxies, types of resolutions, and vote counting.
 
-#### Open Source
+### Open Source
 
 At Absolit, we value the open-source community, and we actively contribute by providing free and open-source software to support developers worldwide.
 
